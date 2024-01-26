@@ -7,3 +7,6 @@
 [submodule "LetUsC"]
 	path = LetUsC
 	url = https://github.com/SoumyaCode74/LetUsC.git
+[submodule "C-Cpp-course-practice"]
+	path = C-Cpp-course-practice
+	url = https://github.com/SoumyaCode74/C-Cpp-course-practice.git
