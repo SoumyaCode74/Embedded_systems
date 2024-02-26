@@ -10,3 +10,6 @@
 [submodule "FastBit_ARMcourse"]
 	path = FastBit_ARMcourse
 	url = git@github.com:SoumyaCode74/FastBit_ARMcourse.git
+[submodule "RTOS"]
+	path = RTOS
+	url = https://github.com/SoumyaCode74/RTOS.git
